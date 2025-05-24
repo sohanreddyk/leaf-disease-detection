@@ -1,6 +1,6 @@
 # 🍃 Leaf Disease Detection using Deep Learning
 
-![Leaf Detection Banner](https://user-images.githubusercontent.com/your-banner-placeholder.jpg)
+
 
 An AI-powered app for detecting diseases in **mango and banana leaves** using **Convolutional Neural Networks (CNN)** with over **93.74% accuracy**. The app also provides detailed information on disease type, causes, symptoms, and treatment suggestions.
 
@@ -14,12 +14,6 @@ An AI-powered app for detecting diseases in **mango and banana leaves** using **
 - 📊 Provides disease name, description, symptoms, causes, and treatments
 - 🎯 Achieved **98.74% accuracy** on custom-trained CNN model
 - ⚡ Built with React + Flask + TensorFlow
-
----
-
-## 🖼️ Sample
-
-![Sample Prediction](https://user-images.githubusercontent.com/your-prediction-placeholder.jpg)
 
 ---
 
